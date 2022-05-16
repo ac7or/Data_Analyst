@@ -8,4 +8,4 @@
 | :---------------------- | :---------------------- | :---------------------- |
 | [Увеличение выручки интернет-магазина](<https://github.com/ac7or/Data_Analyst/tree/main/revenue_online_shop>) | анализ маркетинговых метрик(LTV, CAC, ROI), приоритизация гипотез, A/B-тесты | *pandas, seaborn, matplotlib, numpy* |
 | :---------------------- | :---------------------- | :---------------------- |
-| [Изучить воронку продаж и понять, как пользователи доходят до покупки.](<https://github.com/ac7or/Data_Analyst/tree/main/mobile_app_font>) | анализ воронки продаж, формирование гипотез, A/B-тесты | *pandas, seaborn, matplotlib, numpy* |
+| [Изучить воронку продаж и понять, как пользователи доходят до покупки.](<https://github.com/ac7or/Data_Analyst/tree/main/mobile_app_font>) | анализ воронки продаж, формирование гипотез, A/B-тесты | *pandas, seaborn, matplotlib, numpy, plotly, math* |
